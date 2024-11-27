@@ -1,0 +1,20 @@
+/* selector por id*/
+#mensaje1{
+    background-color: blue;
+}
+/* selector por important*/
+ li {
+    background-color: brown; 
+}
+ li {
+    background-color: blueviolet !important; 
+}
+ li {
+    background-color: forestgreen; 
+}
+    
+
+/* selector por elementos*/
+.product-description p {
+    background-color: brown;
+}
