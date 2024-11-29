@@ -18,3 +18,24 @@
 .product-description p {
     background-color: brown;
 }
+.flex-container{
+    display: flex;
+    height: 600px;
+    justify-content: space-around;
+
+}
+.div1{
+    width:100px;
+    height: 100px;
+    background-color: brown;
+}
+.div2{
+    width:100px;
+    height: 100px;
+    background-color: palevioletred;
+}
+.div3{
+    width:100px;
+    height: 100px;
+    background-color: orangered;
+}
